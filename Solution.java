@@ -9,6 +9,8 @@ public class Solution {
       L2490 l2490 = new L2490();
      // System.out.println(l2490.isCircularSentence("leetcode exercises sound delightful"));
      L567 l567 = new L567();
-     System.out.println(l567.checkInclusion("ab", "eidbaooo"));
+     //System.out.println(l567.checkInclusion("ab", "eidbaooo"));
+     L1945 l1945 = new L1945();
+     System.out.println(l1945.getLucky("leetcode", 2));
     }
 }
