@@ -11,6 +11,8 @@ public class Solution {
      L567 l567 = new L567();
      //System.out.println(l567.checkInclusion("ab", "eidbaooo"));
      L1945 l1945 = new L1945();
-     System.out.println(l1945.getLucky("leetcode", 2));
+     //System.out.println(l1945.getLucky("leetcode", 2));
+     L2558 l2558 = new L2558();
+     System.out.println(l2558.pickGifts(new int[] {25,64,9,4,100}, 4));
     }
 }
