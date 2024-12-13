@@ -13,6 +13,8 @@ public class Solution {
      L1945 l1945 = new L1945();
      //System.out.println(l1945.getLucky("leetcode", 2));
      L2558 l2558 = new L2558();
-     System.out.println(l2558.pickGifts(new int[] {25,64,9,4,100}, 4));
+     //System.out.println(l2558.pickGifts(new int[] {25,64,9,4,100}, 4));
+     L1346 l1346 = new L1346();
+     System.out.println(l1346.checkIfExist(new int[]{-2,0,10,-19,4,6,-8}));
     }
 }
