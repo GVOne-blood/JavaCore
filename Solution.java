@@ -19,6 +19,8 @@ public class Solution {
     L2762 l2762 = new L2762();
     //System.out.println(l2762.continuousSubarrays(new int[]{2,2,2,2,2}));
     L2109 l2109 = new L2109();
-    System.out.println(l2109.addSpaces("LeetcodeHelpsMeLearn", new int[]{8,13,15}));
+   // System.out.println(l2109.addSpaces("LeetcodeHelpsMeLearn", new int[]{8,13,15}));
+   L169 l169 = new L169();
+    System.out.println(l169.majorityElement(new int[]{1,1,1,1,1,2,2, 2, 2, 2, 2, 2, 2, 2}));
     }
 }
