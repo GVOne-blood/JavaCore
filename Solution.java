@@ -21,6 +21,8 @@ public class Solution {
     L2109 l2109 = new L2109();
    // System.out.println(l2109.addSpaces("LeetcodeHelpsMeLearn", new int[]{8,13,15}));
    L169 l169 = new L169();
-    System.out.println(l169.majorityElement(new int[]{1,1,1,1,1,2,2, 2, 2, 2, 2, 2, 2, 2}));
+   // System.out.println(l169.majorityElement(new int[]{1,1,1,1,1,2,2, 2, 2, 2, 2, 2, 2, 2}));
+   L217 l217 = new L217();
+    System.out.println(l217.containsDuplicate(new int[]{1,2,3,1}));
     }
 }
