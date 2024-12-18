@@ -1,3 +1,4 @@
+import java.util.Arrays;
 
 public class Solution {
     public static void main(String[] args) {
@@ -23,6 +24,8 @@ public class Solution {
    L169 l169 = new L169();
    // System.out.println(l169.majorityElement(new int[]{1,1,1,1,1,2,2, 2, 2, 2, 2, 2, 2, 2}));
    L217 l217 = new L217();
-    System.out.println(l217.containsDuplicate(new int[]{1,2,3,1}));
+    //System.out.println(l217.containsDuplicate(new int[]{1,2,3,1}));
+    L1475 l1475 = new L1475();
+    System.out.println(Arrays.toString(l1475.finalPrices(new int[]{8,4,6,2,3})));
     }
 }
