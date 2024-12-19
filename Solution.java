@@ -26,6 +26,8 @@ public class Solution {
    L217 l217 = new L217();
     //System.out.println(l217.containsDuplicate(new int[]{1,2,3,1}));
     L1475 l1475 = new L1475();
-    System.out.println(Arrays.toString(l1475.finalPrices(new int[]{8,4,6,2,3})));
+    //System.out.println(Arrays.toString(l1475.finalPrices(new int[]{8,4,6,2,3})));
+    L1957 l1957 = new L1957();
+    System.out.println(l1957.makeFancyString("aaabaaaa"));
     }
 }
