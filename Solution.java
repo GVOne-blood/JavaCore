@@ -28,6 +28,8 @@ public class Solution {
     L1475 l1475 = new L1475();
     //System.out.println(Arrays.toString(l1475.finalPrices(new int[]{8,4,6,2,3})));
     L1957 l1957 = new L1957();
-    System.out.println(l1957.makeFancyString("aaabaaaa"));
+    //System.out.println(l1957.makeFancyString("aaabaaaa"));
+    L1 l1 = new L1();
+    System.out.println(Arrays.toString(l1.twoSum(new int[]{2,7,11,15}, 9)));
     }
 }
