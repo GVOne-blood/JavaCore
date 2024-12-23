@@ -30,6 +30,8 @@ public class Solution {
     L1957 l1957 = new L1957();
     //System.out.println(l1957.makeFancyString("aaabaaaa"));
     L1 l1 = new L1();
-    System.out.println(Arrays.toString(l1.twoSum(new int[]{2,7,11,15}, 9)));
+    //System.out.println(Arrays.toString(l1.twoSum(new int[]{2,7,11,15}, 9)));
+    L202 l202 = new L202();
+    System.out.println(l202.isHappy(19));
     }
 }
