@@ -34,6 +34,8 @@ public class Solution {
     L202 l202 = new L202();
     //System.out.println(l202.isHappy(19));
     L414 l414 = new L414();
-    System.out.println(l414.thirdMax(new int[]{1, 1, 2}));
+    //System.out.println(l414.thirdMax(new int[]{1, 1, 2}));
+    L724 l724 = new L724();
+    System.out.println(l724.pivotIndex(new int[]{1, 7, 3, 6, 5, 6}));
     }
 }
