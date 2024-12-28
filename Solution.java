@@ -1,4 +1,6 @@
+import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.List;
 
 public class Solution {
     public static void main(String[] args) {
@@ -36,6 +38,10 @@ public class Solution {
     L414 l414 = new L414();
     //System.out.println(l414.thirdMax(new int[]{1, 1, 2}));
     L724 l724 = new L724();
-    System.out.println(l724.pivotIndex(new int[]{1, 7, 3, 6, 5, 6}));
-    }
+    //System.out.println(l724.pivotIndex(new int[]{1, 7, 3, 6, 5, 6}));
+    L1732 l1732 = new L1732();
+    //System.out.println(l1732.largestAltitude(new int[]{-4,-3,-2,-1,4,3,2}));
+    L3364 l3364 = new L3364();
+    System.out.println(l3364.minimumSumSubarray(new ArrayList<>(Arrays.asList(6, 19, 4)), 2, 2));
+}
 }
