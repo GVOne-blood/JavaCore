@@ -42,6 +42,8 @@ public class Solution {
     L1732 l1732 = new L1732();
     //System.out.println(l1732.largestAltitude(new int[]{-4,-3,-2,-1,4,3,2}));
     L3364 l3364 = new L3364();
-    System.out.println(l3364.minimumSumSubarray(new ArrayList<>(Arrays.asList(6, 19, 4)), 2, 2));
+    //System.out.println(l3364.minimumSumSubarray(new ArrayList<>(Arrays.asList(6, 19, 4)), 2, 2));
+    L205 l205 = new L205();
+    System.out.println(l205.isIsomorphic("aba", "aaa"));
 }
 }
