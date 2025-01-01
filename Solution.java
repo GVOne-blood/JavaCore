@@ -44,6 +44,8 @@ public class Solution {
     L3364 l3364 = new L3364();
     //System.out.println(l3364.minimumSumSubarray(new ArrayList<>(Arrays.asList(6, 19, 4)), 2, 2));
     L205 l205 = new L205();
-    System.out.println(l205.isIsomorphic("aba", "aaa"));
+    //System.out.println(l205.isIsomorphic("aba", "aaa"));
+    L20 l20 = new L20();
+    System.out.println(l20.isValid("()[]{}"));
 }
 }
