@@ -46,6 +46,9 @@ public class Solution {
     L205 l205 = new L205();
     //System.out.println(l205.isIsomorphic("aba", "aaa"));
     L20 l20 = new L20();
-    System.out.println(l20.isValid("()[]{}"));
+    //System.out.println(l20.isValid("()[]{}"));
+        L2270 l2270 = new L2270();
+        System.out.println(l2270.waysToSplitArray(new int []{6, -1, 9}));
+        System.out.println(l2270.waysToSplitArray(new int []{10, 4, -8, 7}));
 }
 }

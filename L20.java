@@ -14,6 +14,7 @@ public class L20 {
                 stack.push(currentChar);
             }
             i++;
+            System.out.println("SYstem out print");
         }
         return stack.isEmpty();
     }
