@@ -48,7 +48,9 @@ public class Solution {
     L20 l20 = new L20();
     //System.out.println(l20.isValid("()[]{}"));
         L2270 l2270 = new L2270();
-        System.out.println(l2270.waysToSplitArray(new int []{6, -1, 9}));
-        System.out.println(l2270.waysToSplitArray(new int []{10, 4, -8, 7}));
+//        System.out.println(l2270.waysToSplitArray(new int []{6, -1, 9}));
+//        System.out.println(l2270.waysToSplitArray(new int []{10, 4, -8, 7}));
+        L3042 l3042 = new L3042();
+        System.out.println(l3042.countPrefixSuffixPairs(new String [] {"a","aba","ababa","aa"}));
 }
 }
