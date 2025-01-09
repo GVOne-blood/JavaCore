@@ -51,6 +51,8 @@ public class Solution {
 //        System.out.println(l2270.waysToSplitArray(new int []{6, -1, 9}));
 //        System.out.println(l2270.waysToSplitArray(new int []{10, 4, -8, 7}));
         L3042 l3042 = new L3042();
-        System.out.println(l3042.countPrefixSuffixPairs(new String [] {"a","aba","ababa","aa"}));
+        //System.out.println(l3042.countPrefixSuffixPairs(new String [] {"a","aba","ababa","aa"}));
+        L2185 l2185 = new L2185();
+        System.out.println(l2185.prefixCount(new String []{"leetcode","win","loops","success"}, "code"));
 }
 }
