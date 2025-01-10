@@ -53,6 +53,8 @@ public class Solution {
         L3042 l3042 = new L3042();
         //System.out.println(l3042.countPrefixSuffixPairs(new String [] {"a","aba","ababa","aa"}));
         L2185 l2185 = new L2185();
-        System.out.println(l2185.prefixCount(new String []{"leetcode","win","loops","success"}, "code"));
+        //System.out.println(l2185.prefixCount(new String []{"leetcode","win","loops","success"}, "code"));
+        L1408 l1408 = new L1408();
+        System.out.println(l1408.stringMatching(new String [] {"mass","as","hero","superhero"}));
 }
 }
