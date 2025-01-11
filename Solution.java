@@ -57,6 +57,8 @@ public class Solution {
         L1408 l1408 = new L1408();
         //System.out.println(l1408.stringMatching(new String [] {"mass","as","hero","superhero"}));
         L1422 l1422 = new L1422();
-        System.out.println(l1422.maxScore("0100"));
+        //System.out.println(l1422.maxScore("0100"));
+        L88 l88 = new L88();
+        l88.merge(new int []{1,2,3,0,0,0}, 6, new int []{2,5,6}, 3);
 }
 }
