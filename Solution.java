@@ -55,6 +55,8 @@ public class Solution {
         L2185 l2185 = new L2185();
         //System.out.println(l2185.prefixCount(new String []{"leetcode","win","loops","success"}, "code"));
         L1408 l1408 = new L1408();
-        System.out.println(l1408.stringMatching(new String [] {"mass","as","hero","superhero"}));
+        //System.out.println(l1408.stringMatching(new String [] {"mass","as","hero","superhero"}));
+        L1422 l1422 = new L1422();
+        System.out.println(l1422.maxScore("0100"));
 }
 }
