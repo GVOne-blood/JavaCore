@@ -61,6 +61,8 @@ public class Solution {
         L88 l88 = new L88();
         //l88.merge(new int []{1,2,3,0,0,0}, 6, new int []{2,5,6}, 3);
         L14 l14 = new L14();
-        System.out.println(l14.longestCommonPrefix(new String [] {"a"}));
+        //System.out.println(l14.longestCommonPrefix(new String [] {"a"}));
+        L2089 l2089 = new L2089();
+        System.out.println(l2089.targetIndices(new int[] {1,2,5,2,3}, 2));
 }
 }
