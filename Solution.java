@@ -65,6 +65,8 @@ public class Solution {
         L2089 l2089 = new L2089();
         //System.out.println(l2089.targetIndices(new int[] {1,2,5,2,3}, 2));
         L2657 l2657 = new L2657();
-        System.out.println(l2657.findThePrefixCommonArray(new int []{1,3,2,4}, new int [] {3,1,2,4}));
+       // System.out.println(l2657.findThePrefixCommonArray(new int []{1,3,2,4}, new int [] {3,1,2,4}));
+        L1071 l1071 = new L1071();
+        System.out.println(l1071.gcdOfStrings("ABCABC", "ABC"));
 }
 }
