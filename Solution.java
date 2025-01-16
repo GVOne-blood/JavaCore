@@ -67,6 +67,8 @@ public class Solution {
         L2657 l2657 = new L2657();
        // System.out.println(l2657.findThePrefixCommonArray(new int []{1,3,2,4}, new int [] {3,1,2,4}));
         L1071 l1071 = new L1071();
-        System.out.println(l1071.gcdOfStrings("ABCABC", "ABC"));
+        //System.out.println(l1071.gcdOfStrings("ABCABC", "ABC"));
+        L2582 l2582 = new L2582();
+        System.out.println(l2582.passThePillow(46, 1000));
 }
 }
