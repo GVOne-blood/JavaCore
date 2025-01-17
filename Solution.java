@@ -69,6 +69,12 @@ public class Solution {
         L1071 l1071 = new L1071();
         //System.out.println(l1071.gcdOfStrings("ABCABC", "ABC"));
         L2582 l2582 = new L2582();
-        System.out.println(l2582.passThePillow(46, 1000));
+        //System.out.println(l2582.passThePillow(46, 1000));
+        L209 l209 = new L209();
+        //System.out.println(l209.minSubArrayLen(7, new int [] {2,3,1,2,4,3}));
+        L189 l189 = new L189();
+       // l189.rotate(new int [] {-1,-100,3,99}, 2);
+        L1524 l1524 = new L1524();
+        System.out.println(l1524.numOfSubarrays(new int [] {2, 4, 6}));
 }
 }
