@@ -77,6 +77,8 @@ public class Solution {
         L1524 l1524 = new L1524();
         //System.out.println(l1524.numOfSubarrays(new int [] {2, 4, 6}));
         L1991 l1991 = new L1991();
-        System.out.println(l1991.findMiddleIndex(new int [] {1, -1, 4}));
+        //System.out.println(l1991.findMiddleIndex(new int [] {1, -1, 4}));
+        L1365 l1365 = new L1365();
+        System.out.println(Arrays.toString(l1365.smallerNumbersThanCurrent(new int [] {8,1,2,2,3})));
     }
 }
