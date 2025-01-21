@@ -79,6 +79,8 @@ public class Solution {
         L1991 l1991 = new L1991();
         //System.out.println(l1991.findMiddleIndex(new int [] {1, -1, 4}));
         L1365 l1365 = new L1365();
-        System.out.println(Arrays.toString(l1365.smallerNumbersThanCurrent(new int [] {8,1,2,2,3})));
+        //System.out.println(Arrays.toString(l1365.smallerNumbersThanCurrent(new int [] {8,1,2,2,3})));
+        L455 l455 = new L455();
+        System.out.println(l455.findContentChildren(new int [] {1,2,3}, new int [] {1,1}));
     }
 }
