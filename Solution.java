@@ -81,6 +81,8 @@ public class Solution {
         L1365 l1365 = new L1365();
         //System.out.println(Arrays.toString(l1365.smallerNumbersThanCurrent(new int [] {8,1,2,2,3})));
         L455 l455 = new L455();
-        System.out.println(l455.findContentChildren(new int [] {1,2,3}, new int [] {1,1}));
+        //System.out.println(l455.findContentChildren(new int [] {1,2,3}, new int [] {1,1}));
+        L3105 l3105 = new L3105();
+        System.out.println(l3105.longestMonotonicSubarray(new int [] {1,4,3,3,2}));
     }
 }
