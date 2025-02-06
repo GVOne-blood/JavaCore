@@ -84,5 +84,7 @@ public class Solution {
         //System.out.println(l455.findContentChildren(new int [] {1,2,3}, new int [] {1,1}));
         L3105 l3105 = new L3105();
         //System.out.println(l3105.longestMonotonicSubarray(new int [] {1,4,3,3,2}));
+        L3151 l3151 = new L3151();
+        System.out.println(l3151.isArraySpecial(new int [] {2,1,4}));
     }
 }
