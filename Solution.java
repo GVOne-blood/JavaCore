@@ -89,6 +89,8 @@ public class Solution {
         L791 l791 = new L791();
         //System.out.println(l791.customSortString("kqep", "pekeq"));
         L830 l830 = new L830();
-        System.out.println(l830.largeGroupPositions("abbxxxxzzz"));
+        //System.out.println(l830.largeGroupPositions("abbxxxxzzz"));
+        L884 l884 = new L884();
+        System.out.println(Arrays.toString(l884.uncommonFromSentences("d b zu d t", "udb zu ap")));
     }
 }
