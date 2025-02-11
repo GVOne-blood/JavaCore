@@ -87,6 +87,8 @@ public class Solution {
         L3151 l3151 = new L3151();
         //System.out.println(l3151.isArraySpecial(new int [] {2,1,4}));
         L3174 l3174 = new L3174();
-        System.out.println(l3174.clearDigits("1a2b3c4d5e"));
+        //System.out.println(l3174.clearDigits("1a2b3c4d5e"));
+        L1910 l1910 = new L1910();
+        System.out.println(l1910.removeOccurrences("axxxxyyyyb", "xy"));
     }
 }
