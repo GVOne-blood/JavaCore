@@ -89,6 +89,8 @@ public class Solution {
         L3174 l3174 = new L3174();
         //System.out.println(l3174.clearDigits("1a2b3c4d5e"));
         L1910 l1910 = new L1910();
-        System.out.println(l1910.removeOccurrences("axxxxyyyyb", "xy"));
+        //System.out.println(l1910.removeOccurrences("axxxxyyyyb", "xy"));
+        L2342 l2342 = new L2342();
+        System.out.println(l2342.maximumSum(new int [] {279,169,463,252,94,455,423,315,288,64,494,337,409,283,283,477,248,8,89,166,188,186,128}));
     }
 }
