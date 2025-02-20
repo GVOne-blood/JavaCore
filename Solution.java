@@ -95,6 +95,8 @@ public class Solution {
         L3066 l3066 = new L3066();
         //System.out.println(l3066.minOperations(new int [] {1000000000,999999999,1000000000,999999999,1000000000,999999999}, 1000000000));
         L12 l12 = new L12();
-        System.out.println(l12.intToRoman(3749));
+        //System.out.println(l12.intToRoman(3749));
+        L1980 l1908 = new L1980();
+        System.out.println(l1908.findDifferentBinaryString(new String [] {"00", "01"}));
     }
 }
