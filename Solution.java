@@ -99,6 +99,8 @@ public class Solution {
         L1980 l1908 = new L1980();
         //System.out.println(l1908.findDifferentBinaryString(new String [] {"00", "01"}));
         L53 l53  = new L53();
-        System.out.println(l53.maxSubArray(new int [] {5,4,-1,7,8}));
+        //System.out.println(l53.maxSubArray(new int [] {5,4,-1,7,8}));
+        L962 l962 = new L962();
+        System.out.println(l962.maxWidthRamp(new int [] {6,0,8,2,1,5}));
     }
 }
