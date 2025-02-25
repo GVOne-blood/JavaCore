@@ -101,6 +101,8 @@ public class Solution {
         L53 l53  = new L53();
         //System.out.println(l53.maxSubArray(new int [] {5,4,-1,7,8}));
         L962 l962 = new L962();
-        System.out.println(l962.maxWidthRamp(new int [] {6,0,8,2,1,5}));
+        //System.out.println(l962.maxWidthRamp(new int [] {6,0,8,2,1,5}));
+        L500 l500 = new L500();
+        System.out.println(l500.findWords(new String [] {"Hello","Alaska","Dad","Peace"}));
     }
 }
