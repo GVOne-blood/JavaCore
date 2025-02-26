@@ -103,6 +103,8 @@ public class Solution {
         L962 l962 = new L962();
         //System.out.println(l962.maxWidthRamp(new int [] {6,0,8,2,1,5}));
         L500 l500 = new L500();
-        System.out.println(l500.findWords(new String [] {"Hello","Alaska","Dad","Peace"}));
+        //System.out.println(l500.findWords(new String [] {"Hello","Alaska","Dad","Peace"}));
+        L347 l347 = new L347();
+        System.out.println(l347.topKFrequent(new int [] {1, 2}, 2));
     }
 }
