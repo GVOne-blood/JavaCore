@@ -105,6 +105,8 @@ public class Solution {
         L500 l500 = new L500();
         //System.out.println(l500.findWords(new String [] {"Hello","Alaska","Dad","Peace"}));
         L347 l347 = new L347();
-        System.out.println(l347.topKFrequent(new int [] {1, 2}, 2));
+        //System.out.println(l347.topKFrequent(new int [] {1, 2}, 2));
+        L658 l658 = new L658();
+        System.out.println(l658.findClosestElements(new int [] {1,1,2,3,4,5}, 4, -1));
     }
 }
