@@ -107,6 +107,8 @@ public class Solution {
         L347 l347 = new L347();
         //System.out.println(l347.topKFrequent(new int [] {1, 2}, 2));
         L658 l658 = new L658();
-        System.out.println(l658.findClosestElements(new int [] {1,1,2,3,4,5}, 4, -1));
+        //System.out.println(l658.findClosestElements(new int [] {1,1,2,3,4,5}, 4, -1));
+        L283 l283 = new L283();
+        l283.moveZeroes(new int [] {1,0, 0});
     }
 }
