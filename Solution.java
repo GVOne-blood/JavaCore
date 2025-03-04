@@ -109,6 +109,8 @@ public class Solution {
         L658 l658 = new L658();
         //System.out.println(l658.findClosestElements(new int [] {1,1,2,3,4,5}, 4, -1));
         L283 l283 = new L283();
-        l283.moveZeroes(new int [] {1,0, 0});
+        //l283.moveZeroes(new int [] {1,0, 0});
+        L1780 l1780 = new L1780();
+        System.out.println(l1780.checkPowersOfThree(91));
     }
 }
