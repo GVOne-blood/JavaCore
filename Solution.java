@@ -113,6 +113,8 @@ public class Solution {
         L1780 l1780 = new L1780();
         //System.out.println(l1780.checkPowersOfThree(91));
         L2965 l2965 = new L2965();
-        System.out.println(l2965.findMissingAndRepeatedValues(new int [][] { new int []{1, 3}, new int [] {2, 2}}));
+        //System.out.println(l2965.findMissingAndRepeatedValues(new int [][] { new int []{1, 3}, new int [] {2, 2}}));
+        L2379 l2379 = new L2379();
+        System.out.println(l2379.minimumRecolors("WBBWWBBWBW", 7));
     }
 }
