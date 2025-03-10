@@ -115,6 +115,8 @@ public class Solution {
         L2965 l2965 = new L2965();
         //System.out.println(l2965.findMissingAndRepeatedValues(new int [][] { new int []{1, 3}, new int [] {2, 2}}));
         L2379 l2379 = new L2379();
-        System.out.println(l2379.minimumRecolors("WBBWWBBWBW", 7));
+        //System.out.println(l2379.minimumRecolors("WBBWWBBWBW", 7));
+        L2601 l2601 = new L2601();
+        System.out.println(l2601.primeSubOperation(new int [] {2, 2}));
     }
 }
