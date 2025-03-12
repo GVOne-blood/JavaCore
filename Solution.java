@@ -117,6 +117,8 @@ public class Solution {
         L2379 l2379 = new L2379();
         //System.out.println(l2379.minimumRecolors("WBBWWBBWBW", 7));
         L2601 l2601 = new L2601();
-        System.out.println(l2601.primeSubOperation(new int [] {2, 2}));
+        //System.out.println(l2601.primeSubOperation(new int [] {2, 2}));
+        L2529 l2529 = new L2529();
+        System.out.println(l2529.maximumCount(new int [] {-2,-1,-1,1,2,3}));
     }
 }
