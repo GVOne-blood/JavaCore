@@ -28,7 +28,6 @@ public class L2529 {
                 right = mid - 1;
             }
         }
-
         return Math.max(positiveCount, negativeCount);
     }
 }
