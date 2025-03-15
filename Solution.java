@@ -119,6 +119,8 @@ public class Solution {
         L2601 l2601 = new L2601();
         //System.out.println(l2601.primeSubOperation(new int [] {2, 2}));
         L2529 l2529 = new L2529();
-        System.out.println(l2529.maximumCount(new int [] {-2,-1,-1,1,2,3}));
+        //System.out.println(l2529.maximumCount(new int [] {-2,-1,-1,1,2,3}));
+        L3442 l3442 = new L3442();
+        System.out.println(l3442.maxDifference("aaaaabbc"));
     }
 }
