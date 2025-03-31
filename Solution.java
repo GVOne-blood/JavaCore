@@ -125,7 +125,7 @@ public class Solution {
         L3191 l3191 = new L3191();
         //System.out.println(l3191.minOperations(new int [] {0, 0, 0, 0, 0, 0, 1, 0, 0}));
         L2639 l2639 = new L2639();
-        System.out.println(l2639.isValid(new int [] {1, 2, 3, 4, 5}));
+        //System.out.println(l2639.isValid(new int [] {1, 2, 3, 4, 5}));
 
     }
 }
