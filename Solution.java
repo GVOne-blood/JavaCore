@@ -126,6 +126,8 @@ public class Solution {
         //System.out.println(l3191.minOperations(new int [] {0, 0, 0, 0, 0, 0, 1, 0, 0}));
         L2639 l2639 = new L2639();
         //System.out.println(l2639.isValid(new int [] {1, 2, 3, 4, 5}));
+        L888 l888 = new L888();
+        System.out.println(Arrays.toString(l888.fairCandySwap(new int [] {2}, new int [] {1, 3})));
 
     }
 }
