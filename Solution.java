@@ -127,7 +127,9 @@ public class Solution {
         L2639 l2639 = new L2639();
         //System.out.println(l2639.isValid(new int [] {1, 2, 3, 4, 5}));
         L888 l888 = new L888();
-        System.out.println(Arrays.toString(l888.fairCandySwap(new int [] {2}, new int [] {1, 3})));
+        //System.out.println(Arrays.toString(l888.fairCandySwap(new int [] {2}, new int [] {1, 3})));
+        L1903 l1903 = new L1903();
+        System.out.println(l1903.largestOddNumber("4206"));
 
     }
 }
