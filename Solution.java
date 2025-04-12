@@ -131,7 +131,9 @@ public class Solution {
         L1903 l1903 = new L1903();
         //System.out.println(l1903.largestOddNumber("4206"));
         L2485 l2485 = new L2485();
-        System.out.println(l2485.pivotInteger(8));
+        //System.out.println(l2485.pivotInteger(8));
+        L1317 l1317 = new L1317();
+        System.out.println(Arrays.toString(l1317.getNoZeroIntegers(2)));
 
 
     }
