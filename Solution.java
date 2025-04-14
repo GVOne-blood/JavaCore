@@ -133,7 +133,9 @@ public class Solution {
         L2485 l2485 = new L2485();
         //System.out.println(l2485.pivotInteger(8));
         L1317 l1317 = new L1317();
-        System.out.println(Arrays.toString(l1317.getNoZeroIntegers(2)));
+        //System.out.println(Arrays.toString(l1317.getNoZeroIntegers(2)));
+        L670 l670 = new L670();
+        System.out.println(l670.maximumSwap(2736));
 
 
     }
