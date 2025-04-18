@@ -136,7 +136,8 @@ public class Solution {
         //System.out.println(Arrays.toString(l1317.getNoZeroIntegers(2)));
         L670 l670 = new L670();
         System.out.println(l670.maximumSwap(2736));
-
+        L2062 l2062 = new L2062();
+        System.out.println(l2062.countVowelSubstrings("aeiouu"));
 
     }
 }
