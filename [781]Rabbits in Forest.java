@@ -41,7 +41,6 @@ class Solution {
         int[] count = new int[1001];
         int result = 0;
 
-        // Count the number of rabbits with the same answer
         for (int answer : answers) {
             count[answer]++;
         }
