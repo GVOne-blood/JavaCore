@@ -1,8 +1,4 @@
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
-
-public class Solution {
+public class MainSolution {
     public static void main(String[] args) {
         L1455 l1455 = new L1455();
        // l1455.isPrefixOfWord("i love eating burger", "burg");
@@ -135,9 +131,9 @@ public class Solution {
         L1317 l1317 = new L1317();
         //System.out.println(Arrays.toString(l1317.getNoZeroIntegers(2)));
         L670 l670 = new L670();
-        System.out.println(l670.maximumSwap(2736));
+        //System.out.println(l670.maximumSwap(2736));
         L2062 l2062 = new L2062();
-        System.out.println(l2062.countVowelSubstrings("aeiouu"));
+        //System.out.println(l2062.countVowelSubstrings("aeiouu"));
 
     }
 }
