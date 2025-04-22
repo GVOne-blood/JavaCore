@@ -36,7 +36,7 @@ The smallest possible number of rabbits in the forest is therefore 5: 3 that ans
 */
 
 //leetcode submit region begin(Prohibit modification and deletion)
-class Solution {
+class Solution1 {
     public int numRabbits(int[] answers) {
         int[] count = new int[1001];
         int result = 0;
