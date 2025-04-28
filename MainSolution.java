@@ -135,5 +135,6 @@ public class MainSolution {
         L2062 l2062 = new L2062();
         //System.out.println(l2062.countVowelSubstrings("aeiouu"));
 
+
     }
 }
